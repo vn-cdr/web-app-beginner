@@ -1,2 +1,2 @@
-# web-app-beginner
+# Web & Native-app-beginner
 web application beginner
